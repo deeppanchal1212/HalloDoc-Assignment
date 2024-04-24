@@ -1,0 +1,63 @@
+﻿@model AssignmentEntity.ViewModel.AddTaskViewModel;
+<div class="modal fade" id="AddTask" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header colorcommon">
+                <h1 class="modal-title fs-5 mt-4 text-white" id="exampleModalLabel">Task Form</h1>
+                @*<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>*@
+            </div>
+            <div class="modal-body">
+                <div class="container-fluid">
+                    <form asp-controller="Home" asp-action="AddTask" method="post">
+                        <div class="row mb-3">
+                            <div class="form-floating col-6">
+                                <input asp-for="TaskName" type="text" class="form-control" placeholder="TaskName" required>
+                                <label for="floatingInput">Task Name</label>
+                            </div>
+                            <div class="form-floating col-6">
+                                <input asp-for="Assignee" type="text" class="form-control" placeholder="Assignee" required>
+                                <label for="floatingPassword">Assignee</label>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="form-floating col-6">
+                                <input asp-for="TaskDescription" type="text" class="form-control" placeholder="Description" required>
+                                <label for="floatingInput">Description</label>
+                            </div>
+                            <div class="form-floating col-6">
+                                <input asp-for="DueDate" type="date" class="form-control" placeholder="DueDate" required min="@DateTime.Now.ToString("yyyy-MM-dd")" max="@DateTime.Now.AddYears(100).ToString("yyyy-MM-dd")">
+                                <label for="floatingPassword">Due Date</label>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="form-floating col-6">
+                                <select class="form-select" id="floatingSelect" name="SelectedCityId" aria-label="Floating label select example">
+                                    @foreach(var city in Model.City)
+                                    {
+                                        <option value="@city.Id">@city.CityName</option>
+                                    }
+                                </select>
+                                <label for="floatingSelect">Works with selects</label>
+                            </div>
+                            <div class="form-floating col-6">
+                                <input asp-for="Category" type="text" class="form-control" placeholder="Category" required>
+                                <label for="floatingPassword">Category</label>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-6">
+                                <button class="btn btn-light w-100" data-bs-dismiss="modal">Cancle</button>
+                            </div>
+                            <div class="col-6">
+                                <button type="submit" class="btn w-100 primarycolor text-white">Save</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

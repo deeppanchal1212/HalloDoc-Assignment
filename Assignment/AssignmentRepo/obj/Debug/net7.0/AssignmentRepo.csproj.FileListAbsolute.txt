@@ -1,0 +1,17 @@
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\bin\Debug\net7.0\AssignmentRepo.deps.json
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\bin\Debug\net7.0\AssignmentRepo.runtimeconfig.json
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\bin\Debug\net7.0\AssignmentRepo.dll
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\bin\Debug\net7.0\AssignmentRepo.pdb
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\bin\Debug\net7.0\AssignmentEntity.dll
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\bin\Debug\net7.0\AssignmentEntity.pdb
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\AssignmentRepo.csproj.AssemblyReference.cache
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\AssignmentRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\AssignmentRepo.AssemblyInfoInputs.cache
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\AssignmentRepo.AssemblyInfo.cs
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\AssignmentRepo.csproj.CoreCompileInputs.cache
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\AssignmentRepo.csproj.CopyComplete
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\AssignmentRepo.dll
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\refint\AssignmentRepo.dll
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\AssignmentRepo.pdb
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\AssignmentRepo.genruntimeconfig.cache
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentRepo\obj\Debug\net7.0\ref\AssignmentRepo.dll

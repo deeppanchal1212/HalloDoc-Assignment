@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Task Management System";
+}
+<div class="container">
+    <div class="d-flex justify-content-between mb-4">
+        <div class="mt-3">
+            <button class="btn colorcommon border-0 px-5 fw-bold" onclick="AddTask()">Add Task</button>
+        </div>
+        <div class="form-floating w-25 mt-2">
+            <input type="email" class="form-control" id="Search" placeholder="Search">
+            <label for="floatingInput">Search</label>
+        </div>
+    </div>
+
+    <div id="TableData">
+
+    </div>
+</div>
+
+<div id="showmodal"></div>

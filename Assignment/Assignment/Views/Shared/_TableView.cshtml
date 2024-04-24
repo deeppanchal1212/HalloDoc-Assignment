@@ -1,0 +1,36 @@
+﻿@model List<AssignmentEntity.DataModels.Task>;
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Task ID</th>
+                <th scope="col">Task Name</th>
+                <th scope="col">Assignee</th>
+                <th scope="col">Description</th>
+                <th scope="col">Due Date</th>
+                <th scope="col">Category</th>
+                <th scope="col">City</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (AssignmentEntity.DataModels.Task task in Model)
+            {
+                <tr>
+                    <th>@task.Id</th>
+                    <td>@task.TaskName</td>
+                    <td>@task.Assignee</td>
+                    <td>@task.Description</td>
+                    <td>@task.DueDate</td>
+                    <td>@task.Category</td>
+                    <td>@task.City</td>
+                    <td>
+                        <button class="btn colorcommon text-white" onclick="EditTask(@task.Id)">Edit</button>
+                        <a class="btn btn-danger" asp-action="DeleteTask" asp-route-id="@task.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

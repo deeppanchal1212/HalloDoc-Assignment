@@ -1,0 +1,12 @@
+.colorcommon {
+    background-color: #7CA28D;
+}
+
+.primarycolor{
+    background-color : #3F51B5;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #808CCE;
+}

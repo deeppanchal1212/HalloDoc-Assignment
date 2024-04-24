@@ -1,0 +1,77 @@
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.deps.json
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.runtimeconfig.json
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.dll
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.pdb
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Entity.dll
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Repository.dll
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Repository.pdb
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Entity.pdb
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.AssemblyReference.cache
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.AssemblyInfoInputs.cache
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.AssemblyInfo.cs
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.CoreCompileInputs.cache
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.sourcelink.json
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.CopyComplete
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.dll
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\refint\HalloDoc-N-Tier-Services.dll
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.pdb
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.genruntimeconfig.cache
+C:\HalloDoc-N-Tier Project\Hallodoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\ref\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.deps.json
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.runtimeconfig.json
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.pdb
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Entity.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Repository.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Repository.pdb
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Entity.pdb
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.AssemblyReference.cache
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.AssemblyInfoInputs.cache
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.AssemblyInfo.cs
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.CoreCompileInputs.cache
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.CopyComplete
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\refint\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.pdb
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.genruntimeconfig.cache
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\ref\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.deps.json
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.runtimeconfig.json
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.pdb
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Entity.dll
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Repository.dll
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Repository.pdb
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Entity.pdb
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.AssemblyReference.cache
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.AssemblyInfoInputs.cache
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.AssemblyInfo.cs
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.CoreCompileInputs.cache
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.CopyComplete
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\refint\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.pdb
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.genruntimeconfig.cache
+D:\Projects\HalloDoc-N-Tier\New folder\HalloDoc-N-Tier-Services\obj\Debug\net7.0\ref\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.deps.json
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.runtimeconfig.json
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Services.pdb
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Entity.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Repository.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Repository.pdb
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\bin\Debug\net7.0\HalloDoc-N-Tier-Entity.pdb
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.AssemblyReference.cache
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.AssemblyInfoInputs.cache
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.AssemblyInfo.cs
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.CoreCompileInputs.cache
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.csproj.CopyComplete
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\refint\HalloDoc-N-Tier-Services.dll
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.pdb
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\HalloDoc-N-Tier-Services.genruntimeconfig.cache
+D:\Projects\HalloDoc-N-Tier\HalloDoc-N-Tier\HalloDoc-N-Tier-Services\obj\Debug\net7.0\ref\HalloDoc-N-Tier-Services.dll

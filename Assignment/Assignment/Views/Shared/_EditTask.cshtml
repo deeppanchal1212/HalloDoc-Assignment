@@ -1,0 +1,70 @@
+﻿@model AssignmentEntity.ViewModel.AddTaskViewModel;
+<div class="modal fade" id="EditTask" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header colorcommon">
+                <h1 class="modal-title fs-5 mt-4 text-white" id="exampleModalLabel">Task Form</h1>
+                @*<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>*@
+            </div>
+            <div class="modal-body">
+                <form asp-action="SaveEditTask" asp-route-id="@Model.TaskId">
+                    <div class="container-fluid">
+                        <div class="row mb-3">
+                            <div class="form-floating col-6">
+                                <input asp-for="@Model.TaskName" type="text" class="form-control" placeholder="TaskName">
+                                <label for="floatingInput">Task Name</label>
+                            </div>
+                            <div class="form-floating col-6">
+                                <input asp-for="@Model.Assignee" type="text" class="form-control" placeholder="Asignee">
+                                <label for="floatingPassword">Asignee</label>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="form-floating col-6">
+                                <input asp-for="@Model.TaskDescription" type="text" class="form-control" placeholder="Description">
+                                <label for="floatingInput">Description</label>
+                            </div>
+                            <div class="form-floating col-6">
+                                <input asp-for="@Model.DueDate" asp-format="{0:yyyy-MM-dd}" type="date" class="form-control" placeholder="DueDate">
+                                <label for="floatingPassword">Due Date</label>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <div class="form-floating mb-3 col-6">
+                                <select class="form-select" id="floatingSelect" name="SelectedCityId" aria-label="Floating label select example">
+                                    @foreach (var city in Model.City)
+                                    {
+                                        if (Model.SelectedCityId == city.Id)
+                                        {
+                                            <option value="@city.Id" selected>@city.CityName</option>
+                                        }
+                                        else
+                                        {
+                                            <option value="@city.Id">@city.CityName</option>
+                                        }
+                                    }
+                                </select>
+                                <label for="floatingSelect">Works with selects</label>
+                            </div>
+                            <div class="form-floating col-6">
+                                <input asp-for="@Model.Category" type="text" class="form-control" placeholder="Category">
+                                <label for="floatingPassword">Category</label>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-6">
+                                <button class="btn btn-light w-100" data-bs-dismiss="modal">Cancle</button>
+                            </div>
+                            <div class="col-6">
+                                <button type="submit" class="btn w-100 primarycolor text-white">Save</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

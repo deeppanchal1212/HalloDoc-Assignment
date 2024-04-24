@@ -1,0 +1,14 @@
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\bin\Debug\net7.0\AssignmentEntity.deps.json
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\bin\Debug\net7.0\AssignmentEntity.runtimeconfig.json
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\bin\Debug\net7.0\AssignmentEntity.dll
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\bin\Debug\net7.0\AssignmentEntity.pdb
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\obj\Debug\net7.0\AssignmentEntity.csproj.AssemblyReference.cache
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\obj\Debug\net7.0\AssignmentEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\obj\Debug\net7.0\AssignmentEntity.AssemblyInfoInputs.cache
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\obj\Debug\net7.0\AssignmentEntity.AssemblyInfo.cs
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\obj\Debug\net7.0\AssignmentEntity.csproj.CoreCompileInputs.cache
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\obj\Debug\net7.0\AssignmentEntity.dll
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\obj\Debug\net7.0\refint\AssignmentEntity.dll
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\obj\Debug\net7.0\AssignmentEntity.pdb
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\obj\Debug\net7.0\AssignmentEntity.genruntimeconfig.cache
+D:\Projects\HalloDoc-N-Tier\Assignment\AssignmentEntity\obj\Debug\net7.0\ref\AssignmentEntity.dll
